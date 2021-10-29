@@ -2,6 +2,11 @@
 
 769516427@qq.com
 
+wechat: hc_198701
+
+I don't use the above code. It's recently changed to QT + OpenGL
+Using Qpainter is too slow
+
 上面代码我已经不用了，最新改为Qt+OpenGL了
 使用Qpainter速度太慢了
 
